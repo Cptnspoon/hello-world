@@ -1,2 +1,3 @@
 # hello-world
-new user guide
+
+i'm just learning how to use github
